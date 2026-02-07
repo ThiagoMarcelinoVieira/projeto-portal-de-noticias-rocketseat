@@ -1,7 +1,7 @@
 # TECH NEWS - Portal de Notícias
 
 <div align="center">
-  <img src="./assets/technews-print.jpg" alt="Preview do Projeto Tech News" width="100%">
+  <img src="assets/technews-print.png" alt="Preview do Projeto Tech News" width="100%">
 </div>
 
 ---
